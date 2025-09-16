@@ -1,0 +1,61 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.644822",
+  "default_ports": [
+    80,
+    443,
+    9252
+  ],
+  "dependencies": [],
+  "description": "gitlab-runner is a free and open-source multi-platform build agent for GitLab CI/CD. GitLab Runner executes CI/CD jobs defined in GitLab pipelines, providing a FOSS alternative to GitHub Actions runners or CircleCI executors",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/gitlab-runner",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/gitlab-runner",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.644838",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "gitlab-runner",
+  "repository_url": "https://github.com/howtomgr/gitlab-runner",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "gitlab-runner Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/gitlab-runner"
+}
